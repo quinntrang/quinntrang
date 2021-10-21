@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 👯 Aside from coding, I am dedicated to using 𝐚𝐫𝐭 as a means to 𝐩𝐫𝐨𝐦𝐨𝐭𝐞 𝐝𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 and 𝐦𝐞𝐧𝐭𝐚𝐥 𝐰𝐞𝐥𝐥-𝐛𝐞𝐢𝐧𝐠 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬. In college, I pursued this passion as a resident assistant and as the Cultural House Coordinator of the Asian Student Association.
 
-⭐️ Fun fact: I love modding mechanical keyboards. My current project is the Keychron C1! 
+⭐️ Fun fact: I love modding mechanical keyboards. My current keyboard modding project is the Keychron C1! 
