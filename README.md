@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👯 Aside from coding, I am dedicated to using 𝐚𝐫𝐭 as a means to 𝐩𝐫𝐨𝐦𝐨𝐭𝐞 𝐝𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 and 𝐦𝐞𝐧𝐭𝐚𝐥 𝐰𝐞𝐥𝐥-𝐛𝐞𝐢𝐧𝐠 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬.
 
-😄 Fun fact: I have a deep love for mechanical keyboards. 
+😄 Fun fact: I have a deep love for mechanical keyboards.\n 
 My current keyboard modding project is the Keychron C1! 
 
 🌱 Technical Skills: 
