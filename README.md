@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 🌱 Technical Skills: iOS development, Swift, Java, Python, React Native, SQL, Core Data
 
-😄 Fun fact: I have a deep love for mechanical keyboards. Currently modding the Keychron C1! 
+😄 Fun fact: Currently modding the Keychron C1! (mechanical keyboards ftw) 
 
